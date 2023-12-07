@@ -10,10 +10,10 @@ package pipelineschecks
 
 import (
 	"github.com/google/uuid"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/v6"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/v6/pipelinesapproval"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/v6/pipelinestaskcheck"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/v6/webapi"
+	"github.com/MarcoDelGamba/azure-devops-go-api/azuredevops/v6"
+	"github.com/MarcoDelGamba/azure-devops-go-api/azuredevops/v6/pipelinesapproval"
+	"github.com/MarcoDelGamba/azure-devops-go-api/azuredevops/v6/pipelinestaskcheck"
+	"github.com/MarcoDelGamba/azure-devops-go-api/azuredevops/v6/webapi"
 )
 
 type ApprovalCheckConfiguration struct {

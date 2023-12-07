@@ -10,10 +10,10 @@ package licensing
 
 import (
 	"github.com/google/uuid"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/v7"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/v7/accounts"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/v7/commerce"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/v7/webapi"
+	"github.com/MarcoDelGamba/azure-devops-go-api/azuredevops/v7"
+	"github.com/MarcoDelGamba/azure-devops-go-api/azuredevops/v7/accounts"
+	"github.com/MarcoDelGamba/azure-devops-go-api/azuredevops/v7/commerce"
+	"github.com/MarcoDelGamba/azure-devops-go-api/azuredevops/v7/webapi"
 )
 
 // License assigned to a user

@@ -16,8 +16,8 @@ import (
 	"log"
 	"strconv"
 
-	"github.com/microsoft/azure-devops-go-api/azuredevops/v7"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/v7/core"
+	"github.com/MarcoDelGamba/azure-devops-go-api/azuredevops/v7"
+	"github.com/MarcoDelGamba/azure-devops-go-api/azuredevops/v7/core"
 )
 
 func main() {

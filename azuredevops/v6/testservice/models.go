@@ -9,8 +9,8 @@
 package testservice
 
 import (
-	"github.com/microsoft/azure-devops-go-api/azuredevops/v6"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/v6/webapi"
+	"github.com/MarcoDelGamba/azure-devops-go-api/azuredevops/v6"
+	"github.com/MarcoDelGamba/azure-devops-go-api/azuredevops/v6/webapi"
 )
 
 type AgentGroup struct {
